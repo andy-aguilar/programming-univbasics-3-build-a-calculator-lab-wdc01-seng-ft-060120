@@ -21,10 +21,3 @@ end
 def square_root(num)
   Math.sqrt(num)
 end
-
-addition 1, 7
-subtraction 7, 1 
-division 9, 3
-multiplication 7, 6
-modulo 7, 3
-square_root 81
